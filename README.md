@@ -1,2 +1,2 @@
 # phpconf2017-monitorando-aplicacao-com-logs
-Exemplos simples de monitorar aplicação com logs
+Exemplos simples como monitorar a aplicação com logs
